@@ -1,8 +1,7 @@
 # noahsmyth.xyz
 
-Welcome to my shitty little website (so far)
+### i hope you enjoy my little website
+wanna email me? [noah@noahsmyth.xyz](mailto:noah@noahsmyth.xyz)
 
-Email me? [noah@noahsmyth.xyz](mailto:noah@noahsmyth.xyz)
 
-
-![my dog](https://raw.githubusercontent.com/nxahjs/noahsmyth.xyz/main/IMG_4295.JPEG)
+<img src="https://raw.githubusercontent.com/nxahjs/noahsmyth.xyz/main/IMG_4295.JPEG" alt="dog" width="200"/>
