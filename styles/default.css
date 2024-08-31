@@ -60,6 +60,7 @@ img {
 
 .hovergrow:hover {
     transition: 0.5s;
+    -webkit-transition: 0.5s;
     transform: scale(1.2);
     filter: invert(45%) sepia(71%) brightness(110%) contrast(80%) saturate(2050%) hue-rotate(290deg);
     -webkit-filter: invert(45%) sepia(71%) brightness(110%) contrast(80%) saturate(2050%) hue-rotate(290deg);
@@ -67,6 +68,7 @@ img {
 
 img .clickspin:active {
     transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
 }
 
 
